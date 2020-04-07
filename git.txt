@@ -1,0 +1,7 @@
+创建本地分支  git checkout -b xxx
+查看分支状态  git branch
+新建分支同步到远程	git push origin xxx：xxx
+
+
+删除本地分支 git branch -d xxx
+删除远程分支  git push origin --delete xxx
