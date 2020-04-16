@@ -5,3 +5,8 @@
 
 删除本地分支 git branch -d xxx
 删除远程分支  git push origin --delete xxx
+
+
+删除远程文件git rm -r文件名
+          git comm
+           
